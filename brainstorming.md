@@ -1,19 +1,19 @@
-Mobile App Dev - App Brainstorming Example
+Mobile App Dev - App Brainstorming
 ===
 
 ## Favorite Existing Apps - List
+1. Safari
+1. Cookie Run: Kingdom
+1. Love Nikki
+1. TikTok
 1. Instagram
-1. Wag
-1. Rover
-1. Coinbase
-1. Waze
-1. Notes
-1. Messages
-1. Facebook Messenger
-1. Craigslist Client
-1. Yelp
+1. Spotify
+1. Books
+1. Offline Games
+1. Papa's Sushiria
+1. Hay Day
 
-## Favorite Existing Apps - Categorize and Evaluate
+## New App Ideas - Initial Brainstorming
 ### Instagram
    - **Category:** Photo & Video / Social 
    - **Mobile:** Website is view only, uses camera, mobile first experience.
@@ -21,23 +21,16 @@ Mobile App Dev - App Brainstorming Example
    - **Market:** Anyone that takes pictures could enjoy this app. Ability to follow and hashtag based on interests and categories allows users with unique interests to engage with relevant content.
    - **Habit:** Users can post throughout the day many times. Features like "Stories" encourage more candid posting as well. Users can explore endless pictures in any category imaginable whenever they want. Very habbit forming!
    - **Scope:** Instagram started out extremely narrow focused, just posting pics and viewing feeds. Has expanded to a somewhat larger scope including "Instagram Stories" (a la SnapChat) and messenger features. 
-### Rover
-   - **Category:**...
 
-## New App Ideas - List
+
+## Top 3 App Ideas - Evaluation
 1. Student Behavior Tracker
    - Allows teachers, students and parents to stay up to date with student behavior in real time. Teachers can acknowledge positive student behavior when it happens, students can receive instant positive reinforcement and parents can be more tuned in to how their child is doing at school.
 3. Tutor Finder
 4. Used Text Book Exchange
-5. 
-6. ...   
 
-## Top 3 New App Ideas
-1. Student Behavior Tracker
-2. Tutor Finder
-3. Used Book Exchange
 
-## New App Ideas - Evaluate and Categorize
+## Final App Idea
 1. Student Behavior Tracker
    - **Description**: Allows teachers, students and parents to stay up to date with student behavior in real time. Teachers can acknowledge positive student behavior when it happens, students can receive instant positive reinforcement and parents can be more tuned in to how their child is doing at school.
    - **Category:** Social Networking
