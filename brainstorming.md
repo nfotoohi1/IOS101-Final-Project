@@ -38,9 +38,9 @@ Mobile App Dev - App Brainstorming
 ### Trivia Game
 
 
-## Final App Idea
-### Show Journal
-   - **Description**: Allows teachers, students and parents to stay up to date with student behavior in real time. Teachers can acknowledge positive student behavior when it happens, students can receive instant positive reinforcement and parents can be more tuned in to how their child is doing at school.
+## Final App Idea - Show Journal
+### Description
+   Allows teachers, students and parents to stay up to date with student behavior in real time. Teachers can acknowledge positive student behavior when it happens, students can receive instant positive reinforcement and parents can be more tuned in to how their child is doing at school.
    - **Category:** Social Networking
    - **Mobile:** Mobile is essential for the instant logging of student behavior. Students use the app to purchase goods from the student store and other rewards. The camera is used to share images with parents.
    - **Story:** Creates a team between student, parent and teacher. Allows good behavior to not go unnoticed and for students to get rewards and positive reinforcement from teachers, parents and peers
