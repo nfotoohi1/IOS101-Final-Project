@@ -1,21 +1,26 @@
-# Final Project - *Name of App Here*
+# Final Project - Recipe Book
 
 Submitted by: Nora Fotoohi
 
-**Name of your app** is an app that ... [TODO] 
+Recipe Book is an app that keeps track of a list of recipes that the user inputs. The app also holds a check list of ingredients for each recipe, a list of instructions, and pictures of the dish. The user can create, edit, or delete individual recipes, as well as organize and categorize the recipes however they want. The user can even create a 'menu' that will include all selected recipes that the user wants and will create a complete ingredient list for all the recipes in the 'menu'.
 
-Time spent: **X** hours spent in total
+Time spent: **???** hours spent in total
 
 ## Required Features
 
-The following **required** functionality is completed:
+- [ ] Displays a list of recipes
+- [ ] Creates and deletes a recipe
+- [ ] Displays a list of ingredients and instructions for each recipe
 
-- [ ] App displays a list of tasks
 
+## Additional Features
 
-The following **additional** features are implemented:
-
-- [ ] Tasks can be toggled completed
+- [ ] Edits a recipe
+- [ ] Adds photos to the recipe
+- [ ] Interactive checklist of ingredients
+- [ ] Organizes and categorizes the list of recipes
+- [ ] Creates a 'menu'
+- [ ] Includes a new interactive checklist will complete list of all ingredients for the 'menu'
 
 
 ## Video Walkthrough
